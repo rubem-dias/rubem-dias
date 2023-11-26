@@ -1,13 +1,10 @@
 ## Hi, I'm Rubem. 👋🏻
 
 #### I am currently a fullstack developer and Computer Engineering student.
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rubem-dias&show_icons=true&theme=radical&hide_rank=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubem-dias&theme=radical&layout=donut" />
-</a>
+<div>
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=rubem-dias&show_icons=true&theme=radical&hide_rank=true" />
+    <img height=200  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubem-dias&theme=radical&layout=donut" />
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
