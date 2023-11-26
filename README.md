@@ -3,10 +3,10 @@
 #### I am currently a fullstack developer and studyng Computer Engineering.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=rubem-dias&show_icons=true&theme=radical&hide_rank=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rubem-dias&show_icons=true&theme=radical&hide_rank=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubem-dias&theme=radical&layout=donut" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubem-dias&theme=radical&layout=donut" />
 </a>
 
 <div style="display: inline_block"><br>
